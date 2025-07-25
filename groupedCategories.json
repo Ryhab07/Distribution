@@ -1,0 +1,20 @@
+{
+  "": [
+    "",
+    "ACCESSOIRES",
+    "ISOLATION",
+    "SOLAIRE",
+    "VMC",
+    "PHOTOVOLTAIQUE",
+    "CHAUFFERIE",
+    "NON DÉFINIE",
+    "TRANSPORT"
+  ],
+  "CHAUFFERIE": [
+    "PAC AIR EAU",
+    "PAC AIR AIR",
+    "POELE",
+    "BALLON THERMO",
+    "GRANULESCHAUDIERE"
+  ]
+}
